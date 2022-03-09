@@ -27,8 +27,8 @@ ul {
 }
 .col {
     float: left;
-    width: 60px;
-    height: 60px;
+    /* width: 60px;
+    height: 60px; */
 }
 
 .btn-white {
@@ -101,14 +101,15 @@ header {
 }
 
 .jumbotron-content .jumbotron-title {
-    font-size: 2.5em;
+    font-size: 3em;
     margin-bottom: 0.8em;
-    padding: 1.8em 0;
+    padding-top: 1.5em;
 }
 
 .text {
-    font-size: 1em;
+    font-size: 1.3em;
     line-height: 1.6em;
+    margin-bottom: 1.2em;
 }
 
 .btn-large {
@@ -125,3 +126,55 @@ header {
  .jumbotron-content .buttons {
      margin-top: 2em;
  }
+
+ .advantage a{
+     padding: 2em;
+ }
+
+ .col-image {
+     width: 70%;
+ }
+
+ .col-text {
+     width: 30%;
+ }
+
+ .col-text h1 {
+     font-size: 3em;
+     padding: 1.6em 0;
+ }
+
+ .col-text p {
+     font-size: 1.2em;
+ }
+
+ .advantage-1 {
+     margin-top: 3em;
+    background-color: lightgray;
+ }
+
+ .col-image {
+    width: 70%;
+}
+
+.col-text {
+    width: 30%;
+}
+
+.col-text h1 {
+    font-size: 3em;
+    padding: 1.6em 0;
+}
+
+.col-text p {
+    font-size: 1.2em;
+}
+
+.advantage-2 {
+    padding-top: 3em;
+}
+
+
+
+
+ 
